@@ -1,7 +1,9 @@
 # Fxplorer
 ScenicView is an excellent tool for debugging the properties of the nodes in scenegraph  when the application is still running. However, it has some limitations and lacks few essential features that are quite helpful for programming/debugging. To fill those gaps, a  new tool (**Fxplorer**) is developed, which will be mostly identical to ScenicView but also with added features.
 
-*Prerequisite : This tool can run only on JDK 17+ versions only.*
+> *Prerequisite : This tool can run only on JDK 17+ versions only.*
+
+> *I would like to thank the authors of [JMetro](https://github.com/JFXtras/jfxtras-styles/tree/master/jmetro). I am using those files for the custom styling/theming*.
 
 When the tool is started, the tool will be displayed as below:
 
