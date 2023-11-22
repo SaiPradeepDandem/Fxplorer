@@ -3,6 +3,8 @@ ScenicView is an excellent tool for debugging the properties of the nodes in sce
 
 > *Prerequisite : This tool can run only on JDK 17+ versions only.*
 
+> *I would like to thank the author **Jonathan Giles** of [ScenicView](https://github.com/JonathanGiles/scenic-view) and the other contributors for giving the inspiration for developing this tool. I used the images from there repos*itory.
+
 > *I would like to thank the authors of [JMetro](https://github.com/JFXtras/jfxtras-styles/tree/master/jmetro). I am using those files for the custom styling/theming*.
 
 When the tool is started, the tool will be displayed as below:
