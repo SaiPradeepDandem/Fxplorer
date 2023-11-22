@@ -102,3 +102,8 @@ Please note that this will only compare the node details and not the children de
 And lastly we have an option to switch the themes of the tool between light and dark mode.
 
 ![themes](readme_files/themes.gif)
+
+# Instant updates demo
+In the below demo, you can notice that all the properties(preview, bounds, background..) are instantly updated when the nodes are updated in the scenegraph.
+
+![live_demo](readme_files/live_demo.gif)
